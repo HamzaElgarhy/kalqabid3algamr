@@ -1,0 +1,42 @@
+.main{
+    width: 40%;
+    box-shadow: 1px 1px 10px silver;
+    margin-top: 45px;
+    padding: 10px;
+    font-family: "Cairo", serif;
+}
+input{
+    margin-bottom: 10px;
+    width: 60%;
+    padding: 5px;
+    font-size: 15px;
+    font-weight: bold;
+}
+button{
+    border: none;
+    padding: 10px;
+    width: 40%;
+    font-weight: bold;
+    font-size: 15px;
+    background-color: brown;
+    color: white;
+    cursor: pointer;
+    margin-bottom: 15px;
+    font-family: "Cairo", serif;
+}
+label{
+    padding: 10px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 15px;
+    background-color: #37b6ff;
+    font-family: "Cairo", serif;
+    color: white;
+}
+a{
+    text-decoration: none;
+    font-size: 20px;
+    font-family: "Cairo", serif;
+    font-weight: bold;
+    color: brown;
+}
